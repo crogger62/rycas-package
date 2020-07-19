@@ -8,6 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 Source: https://blog.ephorie.de/doing-maths-symbolically-r-as-a-computer-algebra-system-cas
 
 When I first saw the Computer Algebra System Mathematica in the nineties I was instantly fascinated by it: you could not just calculate things with it but solve equations, simplify, differentiate and integrate expressions and even solve simple differential equations… not just numerically but symbolically! It helped me a lot during my studies at the university back then. Normally you cannot do this kind of stuff with R but fear not, there is, of course, a package for that!
